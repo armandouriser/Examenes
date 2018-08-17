@@ -1,0 +1,20 @@
+introduce un numero
+8
+introduce  otro numero
+5
+aplicando la suma = 13
+aplicando la division = 1.6
+  
+introduce un numero
+456
+introduce  otro numero
+85
+aplicando la suma = 541
+aplicando la division = 5.36470588235294
+
+introduce un numero
+-5
+introduce  otro numero
+10
+aplicando la suma = 5
+aplicando la division = -0.5
