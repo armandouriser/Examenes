@@ -1,0 +1,7 @@
+C:\Users\arman\source\repos\EnCasa\EnCasa\bin\Debug\EnCasa.exe.config
+C:\Users\arman\source\repos\EnCasa\EnCasa\bin\Debug\EnCasa.exe
+C:\Users\arman\source\repos\EnCasa\EnCasa\bin\Debug\EnCasa.pdb
+C:\Users\arman\source\repos\EnCasa\EnCasa\obj\Debug\EnCasa.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\EnCasa\EnCasa\obj\Debug\EnCasa.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\EnCasa\EnCasa\obj\Debug\EnCasa.exe
+C:\Users\arman\source\repos\EnCasa\EnCasa\obj\Debug\EnCasa.pdb
